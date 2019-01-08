@@ -11,3 +11,5 @@ pp. 2421–2426, 2011. http://doi.org/10.1109/TSP.2011.2106779.
 The following is required to run the code:
 - The MEMD toolbox from http://www.commsp.ee.ic.ac.uk/~mandic/research/emd.htm
 - A forward model/lead field matrix must be provided (dimensions: channels x vertices)
+- The circstat toolbox (https://se.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics) by Behrens (P. Berens, CircStat: A Matlab Toolbox for Circular Statistics, Journal of Statistical Software, Volume 31, Issue 10, 2009 
+http://www.jstatsoft.org/v31/i10))
